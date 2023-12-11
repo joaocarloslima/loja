@@ -1,0 +1,10 @@
+[
+	{
+		"field": "nome",
+		"message": "não deve estar vazio"
+	},
+	{
+		"field": "email",
+		"message": "deve ser um endereço de e-mail bem formado"
+	}
+]
